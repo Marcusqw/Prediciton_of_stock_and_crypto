@@ -1,1 +1,0 @@
-# Prediciton_of_stock_and_crypto
