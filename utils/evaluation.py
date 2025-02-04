@@ -22,7 +22,7 @@ def evaluate_model(true_prices, predicted_prices):
     print(f"Mean Absolute Error (MAE): {mae:.4f}")
     print(f"Root Mean Squared Error (RMSE): {rmse:.4f}")
 
-def plot_predictions(dates, true_prices, predicted_prices):
+def plot_predictions (dates, true_prices, predicted_prices):
     """
     Plot actual vs. predicted prices.
 

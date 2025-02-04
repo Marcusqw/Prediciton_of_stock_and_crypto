@@ -1,5 +1,4 @@
 from sklearn.preprocessing import MinMaxScaler
-import numpy as np
 
 # Function to scale the data
 def scale_data(data):
